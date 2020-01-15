@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.ca/DualShock-Jet-Black-Controller-PlayStation/dp/B01LBH9ILW/ref=pd_bxgy_63_img_3/130-3009768-8421033?_encoding=UTF8&pd_rd_i=B01LBH9ILW&pd_rd_r=3c1bbf3d-f001-40ae-8a26-c775f8fe35b8&pd_rd_w=FJGpN&pd_rd_wg=Jtpt6&pf_rd_p=31075106-99ea-4a31-a463-1494a4b8bd5d&pf_rd_r=0J4S1HV1MG2CXC1NAKQC&psc=1&refRID=0J4S1HV1MG2CXC1NAKQC"
+}
